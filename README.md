@@ -57,6 +57,13 @@ docker-compose up --build
 - Backend: http://localhost:3002
 - Frontend: http://localhost:8080
 
+**Importante:** Antes de executar, crie um arquivo `.env` na raiz do projeto:
+
+```env
+EMISSAO_API_URL=https://api.drfinancas.com/testes/notas-fiscais
+EMISSAO_AUTH_TOKEN=seu_token_aqui
+```
+
 ### Sem Docker
 
 #### Backend
