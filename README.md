@@ -114,3 +114,11 @@ npm test
 - `EMITIDA`: Nota fiscal emitida com sucesso
 - `CANCELADA`: Nota fiscal cancelada
 
+Foto do front end:
+<img width="1172" height="929" alt="image" src="https://github.com/user-attachments/assets/b3b38738-015e-432e-9b12-43a4577c9054" />
+
+Foto da documentação da api:
+<img width="1170" height="646" alt="image" src="https://github.com/user-attachments/assets/f2b7b43e-a90c-4dba-aa0d-553abd571a4e" />
+
+
+
